@@ -1,0 +1,7 @@
+Medica App
+Username : admin
+Password : admin123
+
+Pastikan menginstal jdatechooser
+jdk 22
+
